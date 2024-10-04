@@ -1,0 +1,84 @@
+body {
+    background-color: #f4f4f9; 
+    color: #333; 
+}
+
+.navi {
+    background-color: #f8f9fa; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navi h2 {
+    color: #2e3b55; 
+    font-weight: 600;
+}
+
+.navi a {
+    color: #2e3b55; 
+    font-weight: 600;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+ul li a:hover {
+    background-color: #d9534f; /* Crimson hover effect */
+    color: white;
+    border-radius: 10px;
+}
+
+.navi .login {
+    margin-left: 800px;
+    background-color: #5bc0de; 
+    color: white;
+    font-weight: 900;
+    border: none;
+    transition: 1s;
+}
+
+.navi .login:hover {
+    background-color: #337ab7;
+    color: white;
+}
+
+.modal-body {
+    background-color: #f9f9fb;
+    font-weight: 600;
+    color: #333;
+}
+
+.mod-buton {
+    background-color: #5bc0de;
+    color: white;
+    font-weight: 900;
+    border: none;
+    transition: 1s;
+}
+
+.mod-buton:hover {
+    background-color: #337ab7; 
+    color: white;
+}
+
+.dpimage {
+    width: 60px;
+    border-radius: 50%;
+    border: solid #2e3b55 5px; 
+    margin-left: 10px;
+}
+footer {
+    background-color: #263849;
+}
+
+footer h3 {
+    color: #2e3b55;
+}
+
+footer a {
+    color: #ffffff;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: #d9534f;
+}
+
