@@ -475,7 +475,4 @@ if (isset($_REQUEST["action"]) && $_REQUEST["action"] == "Approve") {
             header('location:post_comments.php?msg=Something Went Wrong');
         }
      }
-
-
-     hello iam ali yder mallah
 ?>
