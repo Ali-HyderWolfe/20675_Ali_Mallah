@@ -12,7 +12,6 @@
                 if (isset($_GET['msg'])) {
                     echo $_GET['msg'];
                 }
-                this is changing also and im happy to see this 
             ?>
         </div>
 
