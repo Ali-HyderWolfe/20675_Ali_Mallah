@@ -12,7 +12,7 @@
                 if (isset($_GET['msg'])) {
                     echo $_GET['msg'];
                 }
-                echo "hello";
+                this is changing also and im happy to see this 
             ?>
         </div>
 
